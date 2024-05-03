@@ -34,7 +34,7 @@ const RightSidebar = ({ user, transactions, banks }: RightSidebarProps) => {
                             height={20}
                             width={20}
                         />
-                        <h2 className="text-14 font-semibold text-gray-100">
+                        <h2 className="text-14 font-semibold text-gray-500">
                             Add Bank
                         </h2>
                     </Link>
